@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">tips-for-each-day</string>
+
+    <string name="day_1_title">"Boost your productivity by breaking your tasks into small, manageable pieces."</string>
+    <string name="day_2_title">"Take care of your mental health by setting aside time for meditation or relaxation."</string>
+    <string name="day_3_title">"Stay hydrated throughout the day to keep your mind and body refreshed."</string>
+    <string name="day_4_title">"Get some fresh air and sunlight to boost your mood and energy levels."</string>
+    <string name="day_5_title">"Plan out your meals in advance to make healthy eating easier."</string>
+    <string name="day_6_title">"Read a book that inspires or motivates you to pursue your goals."</string>
+    <string name="day_7_title">"Practice gratitude by writing down things you're thankful for each day."</string>
+    <string name="day_8_title">"Start your day off right by setting a positive intention for the day ahead."</string>
+    <string name="day_9_title">"Spend quality time with loved ones to strengthen your relationships."</string>
+    <string name="day_10_title">"Take a break from social media to reduce stress and improve focus."</string>
+    <string name="day_11_title">"Get enough sleep to allow your body to recover and rejuvenate."</string>
+    <string name="day_12_title">"Try a new hobby or activity to stimulate your creativity and curiosity."</string>
+    <string name="day_13_title">"Declutter your living space to create a more peaceful and organized environment."</string>
+    <string name="day_14_title">"Stretch or do some light exercise to alleviate muscle tension and improve circulation."</string>
+    <string name="day_15_title">"Learn a new skill or language to broaden your horizons and expand your knowledge."</string>
+
+
+    <string name="day_1_description">"Rather than feeling overwhelmed by large projects or tasks, breaking them down into smaller, more achievable pieces can help you stay focused, on track, and feel a sense of accomplishment with each step you complete."</string>
+    <string name="day_2_description">"Taking a few minutes each day to practice meditation or relaxation techniques can help reduce stress, anxiety, and improve overall mental well-being. Even just a few moments of stillness and quiet can make a significant difference."</string>
+    <string name="day_3_description">"Drinking enough water throughout the day is essential for optimal physical and mental health. It helps regulate body temperature, flushes out toxins, improves cognitive function, and helps maintain healthy skin."</string>
+    <string name="day_4_description">"Spending time outside and soaking up some sunlight can help boost vitamin D levels, which can help improve mood, boost energy, and support overall health."</string>
+    <string name="day_5_description">"By taking the time to plan out your meals ahead of time, you can ensure that you're making healthy choices and avoid the temptation of unhealthy options. Plus, meal planning can save time and money in the long run."</string>
+    <string name="day_6_description">"Reading books can offer new perspectives, insights, and inspiration. Choosing a book that aligns with your personal goals or interests can be a great way to stay motivated and focused."</string>
+    <string name="day_7_description">"Focusing on what you're grateful for can help shift your mindset to a more positive and optimistic perspective. It can also help cultivate a sense of appreciation and contentment with what you have."</string>
+    <string name="day_8_description">"Rather than starting your day off with stress and negativity, setting a positive intention can help you feel more empowered and in control of your day. It can be as simple as saying a positive affirmation or visualizing a successful outcome."</string>
+    <string name="day_9_description">"Building and maintaining strong relationships with loved ones can be a source of support, comfort, and joy. Making time to connect with loved ones can help deepen these relationships and improve overall well-being."</string>
+    <string name="day_10_description">"Social media can be a significant source of stress, distraction, and comparison. Taking a break from social media, even just for a short period, can help reduce stress levels and improve focus."</string>
+    <string name="day_11_description">"Getting enough sleep is crucial for optimal physical and mental health. It allows the body to repair and rejuvenate, improves cognitive function, and reduces the risk of chronic health conditions."</string>
+    <string name="day_12_description">"Exploring new hobbies or activities can be a great way to challenge yourself, learn new skills, and stimulate creativity. Plus, it can be a fun way to spend time and improve overall well-being."</string>
+    <string name="day_13_description">"Clearing out clutter from your living space can help create a sense of calm and order. It can also help reduce stress levels and improve productivity."</string>
+    <string name="day_14_description">"Moving your body regularly, even just for a few minutes each day, can help improve flexibility, reduce muscle tension, and improve circulation. It can also help improve mood and overall well-being."</string>
+    <string name="day_15_description">"Learning a new skill or language can broaden your horizons and expand your knowledge, providing personal and professional growth opportunities. It challenges you, develops cognitive abilities and boosts confidence, and allows for communication with diverse cultures or pursuing new hobbies or careers."</string>
+</resources>
